@@ -55,9 +55,11 @@ Este projeto visa introduzir crianças ao mundo da Fórmula E por meio de jogos 
 -> Contribuições:
 Este projeto é de código aberto e encorajamos contribuições para melhorá-lo.
 Autoria:
-[Nome do membro 1] - RM [Número do RM]
-[Nome do membro 2] - RM [Número do RM]
-[Nome do membro 3] - RM [Número do RM]
+- 556798 - Davi Vieira
+- 555819 - Felipe Alamino
+- 556906 - Luca Monteiro
+- 555613 - Pedro Sampaio
+- 558258 - Victor Mesquita
 
 -> LED_F1.ino
 Este código controla os LEDs vermelhos e verdes, simulando as luzes de partida da Fórmula E.
